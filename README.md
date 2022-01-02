@@ -1,2 +1,2 @@
-# GeeksForGeeks-JAVA-
-Practice program of GeeksForGeeks (JAVA)
+# JAVA-Practice Programs
+Practice programs of GeeksForGeeks & HackerRank (JAVA)
